@@ -1,0 +1,15 @@
+{
+  "name": "image-classifier",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@teachablemachine/image": "^0.8.5",
+    "@tensorflow/tfjs-node": "^4.9.0",
+    "jpeg-js": "^0.4.4"
+  }
+}
